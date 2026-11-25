@@ -1,0 +1,11 @@
+name = "zakovat-bot"
+main = "worker.js"
+compatibility_date = "2026-11-25"
+
+[[kv_namespaces]]
+binding = "PACKS"
+id = "REPLACE_WITH_PACKS_KV_ID"
+
+[[kv_namespaces]]
+binding = "STATE"
+id = "REPLACE_WITH_STATE_KV_ID"

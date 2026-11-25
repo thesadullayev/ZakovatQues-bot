@@ -1,0 +1,1 @@
+{"name":"zakovat-bot-cloudflare","private":true,"type":"module","scripts":{"deploy":"wrangler deploy"}}
